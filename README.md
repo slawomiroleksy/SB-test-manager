@@ -6,4 +6,13 @@ In order to start application you need to run backend and frontend.
 ```./mvnw spring-boot:run```
 
 ## Running frontend 
-see `frontent/README.md`
+In order to install dependencies run 
+```
+yarn
+```
+In order to start application run 
+```
+yarn start
+```
+
+More details in`frontent/README.md`
